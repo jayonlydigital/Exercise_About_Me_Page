@@ -1,4 +1,4 @@
-<h1>Create a Portfolio Page</h1>
+<h1>Create an About Me Page</h1>
 
 Joe Johnson | Portfolio
 About Me
@@ -14,7 +14,7 @@ LinkedIn
 
 ------------------------------------------------------------------------
 
-<h1>The Cookie Recipe</h1>
+<h1>Create a Portfolio Page</h1>
 
 Joe Johnson | Portfolio
 About Me
